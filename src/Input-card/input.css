@@ -1,0 +1,27 @@
+.input{
+    border:2px solid;
+    padding: 10px;
+    
+ margin-top: 10px;
+ 
+ 
+  
+ }
+ .inputs{
+    border: 2px solid; 
+    margin-left:400px;
+    margin-right: 250px;
+    margin-bottom: 100px;
+    text-align: center;
+    background-color: blueviolet;
+  
+    padding: 20px;
+ }
+
+
+ .inputs{
+   background-image: url(background.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin-top: 20px;
+ }

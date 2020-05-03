@@ -1,0 +1,64 @@
+.credit-card {
+    width: 350px;
+    background-image:url(background.jpg);
+    color: white;
+    border-radius: 10px;
+    padding: 0 20px;
+   margin-left: 300px;
+
+}
+.credit-card-title {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Lobster', cursive;
+
+
+}
+.credit-card-content {
+    display: flex;
+}
+.credit-card-text {
+    flex: 1;
+    padding-right: 10px
+}
+.puce {
+    width: 50px;
+    height: 40px;
+  
+    border-radius: 10px;
+}
+.credit-card-number {
+    color: #baaf7d;
+    background-color: rgba(229, 215, 149, 0.2);
+    text-align: center;
+    
+}
+.credit-card-valid-thru {
+    text-align: center;
+    font-size: small;
+}
+.credit-card-holder-name {
+    padding: 0;
+    font-size: 0.8em;
+    font-family: 'Raleway', sans-serif;
+}
+.credit-card-logo {
+    width: 70px;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 10px;
+}
+.credit-card-logo img {
+    width: 100%;
+}
+.expiry{
+    font-size: xx-small;
+    font-family: 'Raleway', sans-serif;
+}
+
+.sous-title{
+max-height: 2px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Lobster', cursive;
+}
